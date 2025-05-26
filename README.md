@@ -1,4 +1,4 @@
-# 💯 100 Days of RTL Coding
+# 100 Days of RTL Coding
 
 Welcome to my **#100DaysOfRTL** challenge — a dedicated journey into the world of **Register Transfer Level (RTL) design**, **Digital Electronics**, and **Hardware Description Languages (HDLs)** like **Verilog**.
 
