@@ -1,6 +1,5 @@
 module T_FF(T,clk,reset,Q); 
-input T,
-clk,reset;  
+input T,clk,reset;  
 output reg Q;
 always @(posedge clk or posedge reset) begin 
 if(reset) 
