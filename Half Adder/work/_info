@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.0/8bit ALU rtl to gds
+vHA
+Z0 !s110 1766684685
+!i10b 1
+!s100 FILM?4TCDF]7>PUFYnz=R3
+IAS9VzkBHLNd@I[h:lPzY>1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA_lite/18.0/100DaysRTL/Half Adder
+w1766684368
+8C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA.v
+FC:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1766684685.000000
+!s107 C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@h@a
+vHA_tb
+R0
+!i10b 1
+!s100 UhKTXckol2Fl<5CIEf<7M1
+I87P[bXkLo`J_E>GX:EOGV1
+R1
+R2
+w1766684681
+Z7 8C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA_tb.v
+Z8 FC:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA_tb.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA_tb.v|
+!i113 1
+R5
+R6
+n@h@a_tb
+vtb
+!s110 1766684643
+!i10b 1
+!s100 _b;UnZZKn4;b:GOCg=Cn>2
+Iz5dKLbLKS04B0[ZzBgIXB2
+R1
+R2
+w1766684636
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1766684643.000000
+!s107 C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA_tb.v|
+R9
+!i113 1
+R5
+R6
