@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.0/8bit ALU rtl to gds
+vFull_adder
+Z0 !s110 1767113899
+!i10b 1
+!s100 5l@illodz7E?X]]BYVMfA0
+I2BXWQT8n]m2l:fi9W3Pe^0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA_lite/18.0/100DaysRTL/Full Adder
+w1767113707
+8C:/intelFPGA_lite/18.0/100DaysRTL/Full Adder/Full Adder.v
+FC:/intelFPGA_lite/18.0/100DaysRTL/Full Adder/Full Adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1767113899.000000
+!s107 C:/intelFPGA_lite/18.0/100DaysRTL/Full Adder/Full Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA_lite/18.0/100DaysRTL/Full Adder/Full Adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@full_adder
+vfull_adder_tb
+R0
+!i10b 1
+!s100 hhi^4olUHJYL3WRQ2?[ZU2
+I=k:DNB9PMgJ8a2aTM7g1C2
+R1
+R2
+w1767113891
+8C:/intelFPGA_lite/18.0/100DaysRTL/Full Adder/full_adder_tb.v
+FC:/intelFPGA_lite/18.0/100DaysRTL/Full Adder/full_adder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/intelFPGA_lite/18.0/100DaysRTL/Full Adder/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA_lite/18.0/100DaysRTL/Full Adder/full_adder_tb.v|
+!i113 1
+R5
+R6

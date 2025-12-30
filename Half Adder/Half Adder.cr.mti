@@ -1,0 +1,15 @@
+{C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA.v} {1 {vlog -work work -stats=none {C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HA
+
+Top level modules:
+	HA
+
+} {} {}} {C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA_tb.v} {1 {vlog -work work -stats=none {C:/intelFPGA_lite/18.0/100DaysRTL/Half Adder/HA_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module HA_tb
+
+Top level modules:
+	HA_tb
+
+} {} {}}
