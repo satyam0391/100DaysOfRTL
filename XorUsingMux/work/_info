@@ -8,3 +8,25 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA_lite/18.0/100DaysRTL/Full Adder
+vMux2to1
+!s110 1767204653
+!i10b 1
+!s100 ]b[CDV63A9@liAzfMiMR@0
+ISd>YdIXFEhO^[;6b<bI2<3
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/intelFPGA_lite/18.0/100DaysRTL/XorUsingMux
+w1767204506
+8C:/intelFPGA_lite/18.0/100DaysRTL/XorUsingMux/Mux2to1.v
+FC:/intelFPGA_lite/18.0/100DaysRTL/XorUsingMux/Mux2to1.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1767204653.000000
+!s107 C:/intelFPGA_lite/18.0/100DaysRTL/XorUsingMux/Mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA_lite/18.0/100DaysRTL/XorUsingMux/Mux2to1.v|
+!i113 1
+o-work work
+tCvgOpt 0
+n@mux2to1
